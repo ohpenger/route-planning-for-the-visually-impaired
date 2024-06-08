@@ -1,0 +1,9 @@
+[2024-02-01 12:09:11,325][train.py][line:77][INFO] Process-19080  Starting training:
+            Epochs:          10
+            Batch size:      8
+            Learning rate:   0.001
+            Training size:   424
+            Device:          cuda
+            Loss type:       IoU
+            Backbone:        resnet50
+        
